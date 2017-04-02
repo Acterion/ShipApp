@@ -433,7 +433,8 @@ public class MainWindow extends JFrame {
 	}
 
 	public void coordOutput(String method, int x, int y) {
-		// System.out.println("Method:" + method + "|X:" + x + "|Y:" + y);
+		// System.out.println("Method:" + method + "|X:" + x + "|Y:" + y); add
+		
 	}
 
 }
